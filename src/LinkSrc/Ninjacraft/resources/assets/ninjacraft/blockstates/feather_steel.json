@@ -1,0 +1,14 @@
+{
+  "forge_marker":1,
+  "defaults":{
+    "transform":"forge:default-block",
+    "model":"cube_all",
+    "textures":{
+      "all": "ninjacraft:blocks/feather_steel"
+    }
+  },
+  "variants":{
+    "inventory":[{}],
+    "normal":[{}]
+  }
+}

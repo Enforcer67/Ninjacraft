@@ -1,0 +1,18 @@
+{
+  "forge_marker":1,
+  "defaults":{
+    "model":"cube",
+    "textures":{
+       "up": "ninjacraft:blocks/know_table_top",
+       "down": "ninjacraft:blocks/know_table_bottom",
+       "north": "ninjacraft:blocks/know_table_side",
+       "south": "ninjacraft:blocks/know_table_side",
+       "west": "ninjacraft:blocks/know_table_side",
+       "east": "ninjacraft:blocks/know_table_side"
+    }
+  },
+  "variants":{
+    "inventory":[{}],
+    "normal":[{}]
+  }
+}
